@@ -2,7 +2,7 @@ const timerButtons = document.querySelectorAll('.timer__button');
 const displayTimeLeft = document.querySelector('.display__time-left');  
 const displayEndTime = document.querySelector('.display__end-time'); 
 const enterTime = document.querySelector('#custom');
-
+ //Muni Ernest//
 
 
 let countdown;  
